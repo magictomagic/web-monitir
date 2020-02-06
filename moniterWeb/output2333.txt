@@ -1,0 +1,599 @@
+?<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE>西安交通大学教务处</TITLE><META Name="keywords" Content="西安交通大学教务处" />
+
+
+
+
+
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<META name="viewport" content="width=1200px, initial-scale=1, maximum-scale=1"><LINK rel="stylesheet" href="dfiles/12887/themes/10010/20000/css/default.css"><LINK rel="stylesheet" href="dfiles/12887/themes/10010/20000/css/style.css"><LINK rel="stylesheet" href="dfiles/12887/themes/10010/20000/css/jquery.slidebox.css"><script type="text/javascript" src="dfiles/12887/themes/10010/20000/js/jquery-1.7.2.min.js"></script><script type="text/javascript" src="dfiles/12887/themes/10010/20000/js/jquery.slidebox.js"></script><script type="text/javascript" src="dfiles/12887/themes/10010/20000/js/imageshift.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230697547545257544003060005 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1332696255)</script>
+</HEAD>
+<BODY><!--header-->
+<DIV class="headerWrap">
+<DIV class="header w1200 cleafix"><!--logo-->
+<DIV class="logo fl"><!--LOGO--><!--#begineditable clone="0" namechanged="0" order="1" ispublic="0" tagname="LOGO" viewid="127436" contentviewid="" contype="" stylesysid="" layout="" action="" name="LOGO"-->
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="" title="交大教务处"><img src="dfiles/12887/themes/10010/20000/images/logo.png" width="379" height="72" border="0" alt="交大教务处" title="交大教务处"></a><!--#endeditable--><!--LOGO--></DIV><!--顶部导航-->
+<DIV class="hea-ri fr">
+<DIV class="her-top"><!--顶部链接--><!--#begineditable clone="0" namechanged="0" order="2" ispublic="0" tagname="链接列表--顶部右侧链接" viewid="127437" contentviewid="" contype="" stylesysid="" layout="" action="" name="链接列表--顶部右侧链接"--><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script>
+   <a href="http://www.xjtu.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1332696255, 4135)">交大首页</a>
+<span></span>
+   <a href="bmgk/lxwm.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1332696255, 4136)">联系我们</a>
+<span></span>
+   <a href="http://202.117.1.184/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1332696255, 4137)">旧版网站</a>
+<span></span>
+   <a href="Home/Home.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1332696255, 4138)">English</a>
+
+<!--#endeditable--><!--顶部链接--></DIV>
+<DIV class="her-bom cleafix"><!--全文检索--><!--#begineditable clone="0" namechanged="0" order="3" ispublic="0" tagname="全文检索" viewid="127515" contentviewid="" contype="" stylesysid="" layout="" action="" name="全文检索"--><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode127515').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkeyword127515").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkeyword127515").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkeyword127515").value = base64.encode(document.getElementById("lucenenewssearchkeyword127515").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode127515"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1001" method="post" id="au2a" name="au2a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkeyword127515" name="lucenenewssearchkeyword" value=""><input type="hidden" id="_lucenesearchtype127515" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope127515" name="searchScope" value="0">
+
+<input name="showkeycode" id="showkeycode127515" class="heb-te" name="word" value="输入搜索关键字" onfocus="this.style.color='#999999';if (value =='输入搜索关键字'){value =''}" onblur="this.style.color='#999999';if (value ==''){value='输入搜索关键字'}" style="color: rgb(153, 153, 153);">
+ <input type="image" src="dfiles/12887/themes/10010/20000/images/ico.png" align="absmiddle" style="cursor:pointer;cursor: hand;padding-top:6px;">
+
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<!--#endeditable--><!--全文检索--></DIV></DIV></DIV></DIV><!--nav-->
+<DIV class="navWrap">
+<DIV class="nav w1200"><!--网站导航-->
+<UL><!--#begineditable clone="0" namechanged="0" order="4" ispublic="0" tagname="网站导航" viewid="127438" contentviewid="" contype="" stylesysid="" layout="" action="" name="网站导航"-->
+<li class="mainmenu"><a href="index.htm" title="网站首页">网站首页</a></li>
+
+<li class="mainmenu"><a href="bmgk.htm" title="部门概况">部门概况</a>
+        <div id="nav" style="display: none;">
+ 
+<a href="bmgk/bmjj.htm" title="部门简介">部门简介</a>
+ 
+<a href="bmgk/bmld.htm" title="部门领导">部门领导</a>
+ 
+<a href="bmgk/jgsz.htm" title="机构设置">机构设置</a>
+ 
+<a href="bmgk/lxwm.htm" title="联系我们">联系我们</a>
+</div>
+      </li>
+
+<li class="mainmenu"><a href="djgz/zzjj.htm" target="_blank" title="党建工作">党建工作</a>
+        <div id="nav" style="display: none;">
+ 
+<a href="djgz/zzjj.htm" title="组织简介">组织简介</a>
+ 
+<a href="djgz/zbsh.htm" title="支部生活">支部生活</a>
+ 
+<a href="djgz/xxyd.htm" title="学习园地">学习园地</a>
+</div>
+      </li>
+
+<li class="mainmenu"><a href="jxxx.htm" title="教学信息">教学信息</a>
+        <div id="nav" style="display: none;">
+ 
+<a href="jxxx/xwdt.htm" title="新闻动态">新闻动态</a>
+ 
+<a href="jxxx/xytz.htm" title="学业通知">学业通知</a>
+ 
+<a href="jxxx/zhtz.htm" title="综合通知">综合通知</a>
+ 
+<a href="jxxx/ddjb.htm" title="督导简报">督导简报</a>
+ 
+<a href="list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1012" title="质量报告">质量报告</a>
+</div>
+      </li>
+
+<li class="mainmenu"><a href="gzzd.htm" title="规章制度">规章制度</a>
+        <div id="nav" style="display: none;">
+ 
+<a href="gzzd/jwgl.htm" title="教务管理">教务管理</a>
+ 
+<a href="gzzd/jxyj.htm" title="教学研究">教学研究</a>
+ 
+<a href="gzzd/jxsj.htm" title="教学实践">教学实践</a>
+ 
+<a href="gzzd/hzjl.htm" title="合作交流">合作交流</a>
+ 
+<a href="gzzd/zhsw.htm" title="综合事务">综合事务</a>
+</div>
+      </li>
+
+<li class="mainmenu"><a href="gzlc.htm" title="工作流程">工作流程</a>
+        <div id="nav" style="display: none;">
+ 
+<a href="gzlc/jxglry.htm" title="教学管理人员">教学管理人员</a>
+ 
+<a href="gzlc/js.htm" title="教师">教师</a>
+ 
+<a href="gzlc/xs.htm" title="学生">学生</a>
+</div>
+      </li>
+
+<li class="mainmenu"><a href="zlxz.htm" title="资料下载">资料下载</a>
+        <div id="nav" style="display: none;">
+ 
+<a href="zlxz/jwgl.htm" title="教务管理">教务管理</a>
+ 
+<a href="zlxz/jxyj.htm" title="教学研究">教学研究</a>
+ 
+<a href="zlxz/sjjx.htm" title="实践教学">实践教学</a>
+ 
+<a href="zlxz/hzjl.htm" title="合作交流">合作交流</a>
+ 
+<a href="zlxz/zhsw.htm" title="综合事务">综合事务</a>
+</div>
+      </li>
+
+<li class="mainmenu"><a href="xxfw.htm" title="信息服务">信息服务</a>
+        <div id="nav" style="display: none;">
+ 
+<a href="xxfw/xl.htm" title="校历">校历</a>
+ 
+<a href="xxfw/gxylxfs.htm" title="各学院联系方式">各学院联系方式</a>
+ 
+<a href="xxfw/zxsj.htm" title="作息时间">作息时间</a>
+ 
+<a href="xxfw/Q_A.htm" title="Q&amp;A">Q&amp;A</a>
+</div>
+      </li>
+<!--#endeditable--></UL><!--网站导航--></DIV><script type="text/javascript">
+    $(function(){
+    
+        $(".nav ul li #nav").hide();
+        
+        $("li.mainmenu").hover(function(){
+            $(this).find("#nav").stop(true,true);
+            $(this).find("#nav").slideDown();
+        },function(){
+            $(this).find("#nav").stop(true,true);
+            $(this).find("#nav").slideUp();
+        });
+        $(document).ready(function(){
+            $(".nav ul li").hover(function(){
+                $(this).addClass('cur').siblings().removeClass('cur');
+            });
+        });
+        
+    })
+    </script></DIV><!--banner-->
+<DIV class="bannerWrap cleafix">
+<DIV class="main_visual w1200"><!--轮播图片-->
+<DIV class="flicking_con"><!--#begineditable clone="0" namechanged="0" order="5" ispublic="0" tagname="图片文章列表" viewid="127479" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片文章列表"--><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><script type="text/javascript" src="/system/resource/js/news/webbertpltitlelist.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+    $("#tpltitlelistc127479").KinSlideshow();
+    })
+</script>
+<div id="tpltitlelistc127479" style="visibility:hidden;">
+        <a href="info/1008/6828.htm" target="_blank" title="着力打造线上线下“金课”--教务处成功举办混合式教学培训会"><img src="/__local/1/8D/D5/E10FAB86154C78E2C50409C76AB_676E382D_A655E.png" alt1="着力打造线上线下“金课”--教务处成功举办混合式教学培训会" width="580" height="200" /></a>
+        <a href="info/1008/6826.htm" target="_blank" title="西安交大学子在第十届全国大学生数学竞赛决赛中获佳绩"><img src="/__local/6/DB/98/1FEAE1E863C7961637E19C52143_EC9184C4_9F92.jpg" alt1="西安交大学子在第十届全国大学生数学竞赛决赛中获佳绩" width="580" height="200" /></a>
+        <a href="info/1008/6525.htm" target="_blank" title="2018-2022年教育部高等学校大学数学课程教学指导委员会成立大会暨第一次工作会议在郑州召开"><img src="/__local/0/5C/39/B774C7CBAD81BDBFF6AFD90DB59_A78E1414_7E35.jpg" alt1="2018-2022年教育部高等学校大学数学课程教学指导委员会成立大..." width="580" height="200" /></a>
+</div><script>_showDynClickBatch(['dynclicks_u4_6828','dynclicks_u4_6826','dynclicks_u4_6525'],[6828,6826,6525],"wbnews", 1332696255)</script>
+<!--#endeditable--></DIV><!--轮播图片--
+<!--教学新闻-->
+<DIV class="jxxw fr">
+<DIV class="jxxw_title"><SPAN><A href="jxxx/xwdt.htm" onfocus="undefined" onfocus="undefined">+查看更多内容</A></SPAN> 
+<H2><IMG src="dfiles/12887/themes/10010/20000/images/lm_btn_book.png"><A href="jxxx/xwdt.htm" onfocus="undefined" onfocus="undefined">新闻动态</A></H2></DIV>
+<DIV class="jxxw_list">
+<UL class="jxxw_list_ul"><!--#begineditable clone="0" namechanged="0" order="6" ispublic="0" tagname="标题列表--教学资讯" viewid="127439" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表--教学资讯"--><li><a class="fr lg">05-27</a><a href="info/1008/6955.htm" target="_blank" title="聆听丝竹之音 慧启中华神韵——记人文学院通识类核心课《交响音乐赏析》全国直播见面课">聆听丝竹之音 慧启中华神韵——记人文学院通识类核心课《交响音乐赏析》...</a></li>
+<li><a class="fr lg">05-20</a><a href="info/1008/6943.htm" target="_blank" title="午间沙龙钢琴乐声漫  交大康桥妙音师生赞——《钢琴表演艺术》课程午间沙龙精彩呈现">午间沙龙钢琴乐声漫  交大康桥妙音师生赞——《钢琴表演艺术》课程午间...</a></li>
+<li><a class="fr lg">04-17</a><a href="info/1008/6886.htm" target="_blank" title="学校举办应用国际化教学平台提升教学效率及保障教学质量研讨会">学校举办应用国际化教学平台提升教学效率及保障教学质量研讨会</a></li>
+<li><a class="fr lg">04-11</a><a href="info/1008/6851.htm" target="_blank" title="西安交大上线百门在线开放课程">西安交大上线百门在线开放课程</a></li>
+<li><a class="fr lg">04-04</a><a href="info/1008/6828.htm" target="_blank" title="着力打造线上线下“金课”--教务处成功举办混合式教学培训会">着力打造线上线下“金课”--教务处成功举办混合式教学培训会</a></li>
+<li><a class="fr lg">04-03</a><a href="info/1008/6826.htm" target="_blank" title="西安交大学子在第十届全国大学生数学竞赛决赛中获佳绩">西安交大学子在第十届全国大学生数学竞赛决赛中获佳绩</a></li>
+<script>_showDynClickBatch(['dynclicks_u5_6955','dynclicks_u5_6943','dynclicks_u5_6886','dynclicks_u5_6851','dynclicks_u5_6828','dynclicks_u5_6826'],[6955,6943,6886,6851,6828,6826],"wbnews", 1332696255)</script>
+<!--#endeditable--></UL></DIV></DIV><!--教学新闻--></DIV></DIV><!--页面主体内容-->
+<DIV class="mainWrap">
+<DIV class="main w1200 cleafix"><!--学生通知-->
+<DIV class="xstz fl" style="margin: 0px">
+<DIV class="xstz_title"><SPAN><A href="jxxx/xytz.htm" onfocus="undefined" onfocus="undefined">+查看更多内容</A></SPAN> 
+<H2><IMG src="dfiles/12887/themes/10010/20000/images/lm_btn_student.png"><A href="jxxx/xytz.htm" onfocus="undefined" onfocus="undefined">学业通知</A></H2></DIV>
+<DIV class="xstz_list">
+<UL class="xstz_list_ul"><!--#begineditable clone="0" namechanged="0" order="7" ispublic="0" tagname="标题列表--学业通知" viewid="127440" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表--学业通知"-->
+<li><a class="fr lg">05-30</a><a href="info/1017/6985.htm" target="_blank" title="关于公布2019年全国大学生英语竞赛西安交通大学获奖学生名单的通知">关于公布2019年全国大学生英语竞赛西安交通大学获...</a></li>
+<li><a class="fr lg">05-29</a><a href="info/1015/6984.htm" target="_blank" title="关于2018-2019学年小学期教学安排及选课的通知">关于2018-2019学年小学期教学安排及选课的通知</a></li>
+<li><a class="fr lg">05-29</a><a href="info/1015/6983.htm" target="_blank" title="关于2018-2019学年小学期2018级学生计算机、数学建模与英语集训等教学安排及选课的通知">关于2018-2019学年小学期2018级学生计算机、数学建...</a></li>
+<li><a class="fr lg">05-24</a><a href="info/1013/6953.htm" target="_blank" title="关于2019届毕业生延长学习时间及结业有关事宜的通知">关于2019届毕业生延长学习时间及结业有关事宜的通...</a></li>
+<li><a class="fr lg">05-23</a><a href="info/1017/6951.htm" target="_blank" title="关于西安交通大学2019年大学生数学建模竞赛成绩的公告">关于西安交通大学2019年大学生数学建模竞赛成绩的...</a></li>
+<li><a class="fr lg">05-21</a><a href="info/1013/6948.htm" target="_blank" title="关于2018级本科生专业选择工作的通知">关于2018级本科生专业选择工作的通知</a></li>
+<li><a class="fr lg">05-21</a><a href="info/1015/6947.htm" target="_blank" title="高等数学、概率统计课程提升班时间安排">高等数学、概率统计课程提升班时间安排</a></li>
+<li><a class="fr lg">05-21</a><a href="info/1014/6946.htm" target="_blank" title="关于打印英语口语考试准考证的通知">关于打印英语口语考试准考证的通知</a></li>
+<li><a class="fr lg">05-17</a><a href="info/1017/6942.htm" target="_blank" title="关于公布第五届中国“互联网+”大学生创新创业大赛各学院联系人的通知">关于公布第五届中国“互联网+”大学生创新创业大赛...</a></li>
+<li><a class="fr lg">05-17</a><a href="info/1014/6941.htm" target="_blank" title="关于2019年校内英语四级考试的通知">关于2019年校内英语四级考试的通知</a></li>
+<li><a class="fr lg">05-15</a><a href="info/1013/6938.htm" target="_blank" title="关于2018-2019学年第二学期学生证及火车票优惠卡补办的通知">关于2018-2019学年第二学期学生证及火车票优惠卡补...</a></li>
+<li><a class="fr lg">05-14</a><a href="info/1016/6937.htm" target="_blank" title="关于2019年南京大学C9暑期学校报名的通知">关于2019年南京大学C9暑期学校报名的通知</a></li>
+<li><a class="fr lg">05-13</a><a href="info/1015/6935.htm" target="_blank" title="关于落实2019-2020学年第一学期2019级本科生教学任务的通知">关于落实2019-2020学年第一学期2019级本科生教学任...</a></li>
+<li><a class="fr lg">05-08</a><a href="info/1014/6927.htm" target="_blank" title="关于2019年校内英语四级考试的通知">关于2019年校内英语四级考试的通知</a></li>
+<li><a class="fr lg">05-07</a><a href="info/1016/6918.htm" target="_blank" title="2019年第一批本科赴国境外交流学习获资助资格人员名单">2019年第一批本科赴国境外交流学习获资助资格人员...</a></li>
+<li><a class="fr lg">05-07</a><a href="info/1016/6917.htm" target="_blank" title="关于2019年浙江大学C9暑期学校报名的通知">关于2019年浙江大学C9暑期学校报名的通知</a></li>
+<li><a class="fr lg">05-07</a><a href="info/1016/6916.htm" target="_blank" title="西安交通大学关于举办第十届“C9暑期学校”的通知">西安交通大学关于举办第十届“C9暑期学校”的通知</a></li>
+<li><a class="fr lg">05-07</a><a href="info/1017/6915.htm" target="_blank" title="西安交通大学第三届大学生金相技能大赛暨第八届全国大学生金相技能大赛选拔赛报名通知">西安交通大学第三届大学生金相技能大赛暨第八届全...</a></li>
+<li><a class="fr lg">04-30</a><a href="info/1017/6912.htm" target="_blank" title="关于举办第五届中国“互联网+”大学生创新创业大赛校内选拔赛的通知">关于举办第五届中国“互联网+”大学生创新创业大赛...</a></li>
+<li><a class="fr lg">04-30</a><a href="info/1016/6911.htm" target="_blank" title="2019年秋季美国加州大学圣塔芭芭拉分校学分项目选拔通知">2019年秋季美国加州大学圣塔芭芭拉分校学分项目选...</a></li>
+<script>_showDynClickBatch(['dynclicks_u6_6985','dynclicks_u6_6984','dynclicks_u6_6983','dynclicks_u6_6953','dynclicks_u6_6951','dynclicks_u6_6948','dynclicks_u6_6947','dynclicks_u6_6946','dynclicks_u6_6942','dynclicks_u6_6941','dynclicks_u6_6938','dynclicks_u6_6937','dynclicks_u6_6935','dynclicks_u6_6927','dynclicks_u6_6918','dynclicks_u6_6917','dynclicks_u6_6916','dynclicks_u6_6915','dynclicks_u6_6912','dynclicks_u6_6911'],[6985,6984,6983,6953,6951,6948,6947,6946,6942,6941,6938,6937,6935,6927,6918,6917,6916,6915,6912,6911],"wbnews", 1332696255)</script>
+<!--#endeditable--></UL></DIV></DIV>
+<DIV class="xstz fl">
+<DIV class="xstz_title"><SPAN><A href="jxxx/zhtz.htm" onfocus="undefined" onfocus="undefined">+查看更多内容</A></SPAN> 
+<H2><IMG src="dfiles/12887/themes/10010/20000/images/lm_btn_news.png"><A href="jxxx/zhtz.htm" onfocus="undefined" onfocus="undefined">综合通知</A></H2></DIV>
+<DIV class="xstz_list">
+<UL class="xstz_list_ul"><!--#begineditable clone="0" namechanged="0" order="8" ispublic="0" tagname="标题列表--综合通知" viewid="127441" contentviewid="" contype="" stylesysid="" layout="" action="" name="标题列表--综合通知"--><li><a class="fr lg">01-09</a><a href="info/1091/6643.htm" target="_blank" title="“雨课堂”课堂教学工具使用通知">“雨课堂”课堂教学工具使用通知</a></li>
+<li><a class="fr lg">05-31</a><a href="info/1091/6987.htm" target="_blank" title="关于2019年5月份研究生助教实际完成工作统计的通知">关于2019年5月份研究生助教实际完成工作统计的通知</a></li>
+<li><a class="fr lg">05-30</a><a href="info/1024/6986.htm" target="_blank" title="关于开展2019年度西安交通大学校级虚拟仿真实验教学项目建设工作的通知">关于开展2019年度西安交通大学校级虚拟仿真实验教...</a></li>
+<li><a class="fr lg">05-28</a><a href="info/1091/6982.htm" target="_blank" title="?关于2019年秋季学期混合式教学计划申报的通知">?关于2019年秋季学期混合式教学计划申报的通知</a></li>
+<li><a class="fr lg">05-28</a><a href="info/1096/6981.htm" target="_blank" title="关于对“2016年西安交通大学本科教学改革研究项目”“2017年西安交通大学本科教育教学改革专项”结题验收结果的公示">关于对“2016年西安交通大学本科教学改革研究项目...</a></li>
+<li><a class="fr lg">05-27</a><a href="info/1025/6954.htm" target="_blank" title="2019年春季学期思源教学沙龙活动（6月份）">2019年春季学期思源教学沙龙活动（6月份）</a></li>
+<li><a class="fr lg">05-24</a><a href="info/1093/6952.htm" target="_blank" title="关于组织2019年度本科专业申报工作的通知">关于组织2019年度本科专业申报工作的通知</a></li>
+<li><a class="fr lg">05-20</a><a href="info/1095/6945.htm" target="_blank" title="西安交通大学关于2019年网络安全优秀教师奖推荐候选人的公示">西安交通大学关于2019年网络安全优秀教师奖推荐候...</a></li>
+<li><a class="fr lg">05-20</a><a href="info/1021/6944.htm" target="_blank" title="关于2018-2019学年夏季小学期有关教学工作的通知">关于2018-2019学年夏季小学期有关教学工作的通知</a></li>
+<li><a class="fr lg">05-17</a><a href="info/1023/6940.htm" target="_blank" title="关于2018-2019学年第二学期期末学生评教的通知">关于2018-2019学年第二学期期末学生评教的通知</a></li>
+<li><a class="fr lg">05-15</a><a href="info/1094/6939.htm" target="_blank" title="关于2019版本科培养方案答辩论证具体安排的通知">关于2019版本科培养方案答辩论证具体安排的通知</a></li>
+<li><a class="fr lg">05-13</a><a href="info/1096/6936.htm" target="_blank" title="关于“2016年西安交通大学本科教学改革研究项目”和“2017年西安交通大学本科教育教学改革专项”结题验收答辩安排的通知">关于“2016年西安交通大学本科教学改革研究项目”...</a></li>
+<li><a class="fr lg">05-13</a><a href="info/1024/6934.htm" target="_blank" title="关于2019届毕业设计（论文）后期工作安排的通知">关于2019届毕业设计（论文）后期工作安排的通知</a></li>
+<li><a class="fr lg">05-09</a><a href="info/1021/6928.htm" target="_blank" title="关于2019年新增基础通识类课程的公示">关于2019年新增基础通识类课程的公示</a></li>
+<li><a class="fr lg">05-07</a><a href="info/1021/6919.htm" target="_blank" title="关于召开领军学者谈教学报告会的通知">关于召开领军学者谈教学报告会的通知</a></li>
+<li><a class="fr lg">05-05</a><a href="info/1091/6914.htm" target="_blank" title="关于开展“课堂影音实录”服务的通知">关于开展“课堂影音实录”服务的通知</a></li>
+<li><a class="fr lg">05-05</a><a href="info/1024/6913.htm" target="_blank" title="关于2019年太空应用工程技术菁英班招生选拔结果的公示">关于2019年太空应用工程技术菁英班招生选拔结果的...</a></li>
+<li><a class="fr lg">04-30</a><a href="info/1021/6910.htm" target="_blank" title="关于西安交通大学2019年新增基础通识类课程答辩安排的通知">关于西安交通大学2019年新增基础通识类课程答辩安...</a></li>
+<li><a class="fr lg">04-30</a><a href="info/1096/6909.htm" target="_blank" title="关于组织申报陕西省高等教育学会2019年度高等教育科学研究项目的通知">关于组织申报陕西省高等教育学会2019年度高等教育...</a></li>
+<li><a class="fr lg">04-29</a><a href="info/1024/6905.htm" target="_blank" title="关于举办2018届本科生优秀毕业设计(论文)展览的通知">关于举办2018届本科生优秀毕业设计(论文)展览的通...</a></li>
+<script>_showDynClickBatch(['dynclicks_u7_6643','dynclicks_u7_6987','dynclicks_u7_6986','dynclicks_u7_6982','dynclicks_u7_6981','dynclicks_u7_6954','dynclicks_u7_6952','dynclicks_u7_6945','dynclicks_u7_6944','dynclicks_u7_6940','dynclicks_u7_6939','dynclicks_u7_6936','dynclicks_u7_6934','dynclicks_u7_6928','dynclicks_u7_6919','dynclicks_u7_6914','dynclicks_u7_6913','dynclicks_u7_6910','dynclicks_u7_6909','dynclicks_u7_6905'],[6643,6987,6986,6982,6981,6954,6952,6945,6944,6940,6939,6936,6934,6928,6919,6914,6913,6910,6909,6905],"wbnews", 1332696255)</script>
+<!--#endeditable--></UL></DIV></DIV>
+<DIV class="info fr">
+<DIV class="info_title">
+<H2><IMG src="dfiles/12887/themes/10010/20000/images/lm_btn_info.png"><A href="#" onfocus="undefined" onfocus="undefined">常用信息</A></H2></DIV>
+<DIV class="info_list"><!--#begineditable clone="0" namechanged="0" order="9" ispublic="0" tagname="图片列表--常用信息" viewid="127442" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片列表--常用信息"-->    <table>
+          <tr>
+          
+               <td align="center" width="75px" valign="top"> 
+                        <a href="xxfw/xl.htm" title="西安交大校历" onclick="_addDynClicks(&#34;wbimage&#34;, 1332696255, 20610)" target="_blank" style="width:48px;display:block;">
+                            <img src="dfiles/12887/themes/10010/20000/images/index1.png" border="0"><br>
+ 西安交大校历
+                        </a>  
+                </td>
+               <td align="center" width="75px" valign="top"> 
+                        <a href="xxfw/zxsj.htm" title="作息时间安排" onclick="_addDynClicks(&#34;wbimage&#34;, 1332696255, 20611)" target="_blank" style="width:48px;display:block;">
+                            <img src="dfiles/12887/themes/10010/20000/images/index2.png" border="0"><br>
+ 作息时间安排
+                        </a>  
+                </td>
+               <td align="center" width="75px" valign="top"> 
+                        <a href="xxfw/gxylxfs.htm" title="各学院联系方式" onclick="_addDynClicks(&#34;wbimage&#34;, 1332696255, 20612)" target="_blank" style="width:48px;display:block;">
+                            <img src="dfiles/12887/themes/10010/20000/images/index3.png" border="0"><br>
+ 各学院联系方式
+                        </a>  
+                </td>
+               <td align="center" width="75px" valign="top"> 
+                        <a href="GoogleChrome_ehall.xjtu.zip" title="谷歌绿色浏览器" onclick="_addDynClicks(&#34;wbimage&#34;, 1332696255, 20613)" target="_blank" style="width:48px;display:block;">
+                            <img src="images/ehall.xjtu.png" border="0"><br>
+ 谷歌绿色浏览器
+                        </a>  
+                </td>
+        
+</tr>
+</table>
+<!--#endeditable--></DIV>
+<DIV class="info_title" style="margin-top: 4px">
+<H2><IMG src="dfiles/12887/themes/10010/20000/images/lm_btn_pc.png"><A href="#" onfocus="undefined" onfocus="undefined">快捷通道</A></H2></DIV>
+<DIV class="info_list"><!--#begineditable clone="0" namechanged="0" order="10" ispublic="0" tagname="图片列表--快捷通道" viewid="127443" contentviewid="" contype="" stylesysid="" layout="" action="" name="图片列表--快捷通道"-->    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+            
+
+                <td colspan="2">
+                        <a href="http://ehall.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1332696255, 20614)" target="_blank">
+                            <img src="dfiles/kstd/btn_066.jpg" border="0" width="300">
+                        </a>  
+                </td>
+</tr>
+          <tr>
+
+                <td align="left" width="145">
+                        <a href="http://xkfw.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1332696255, 20616)" target="_blank">
+                            <img src="dfiles/12887/themes/10010/20000/images/btn_03.png" border="0" width="145">
+                        </a>  
+                </td>
+        
+        
+
+                <td align="right" width="145">
+                        <a href="http://syxt.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1332696255, 20617)" target="_blank">
+                            <img src="images/btn_041.png" border="0" width="145">
+                        </a>  
+                </td>
+</tr>
+          <tr>
+
+                <td align="left" width="145">
+                        <a href="http://202.117.1.152:8080/user" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1332696255, 20676)" target="_blank">
+                            <img src="images/btn_05_1.png" border="0" width="145">
+                        </a>  
+                </td>
+        
+        
+
+                <td align="right" width="145">
+                        <a href="xjxxq/wjgd.htm" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1332696255, 20677)" target="_blank">
+                            <img src="images/btn_05_2.png" border="0" width="145">
+                        </a>  
+                </td>
+</tr>
+          <tr>
+
+                <td align="left" width="145">
+                        <a href="http://pts.xjtu.edu.cn:8080/" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1332696255, 20619)" target="_blank">
+                            <img src="dfiles/kstd/btn_002.jpg" border="0" width="145">
+                        </a>  
+                </td>
+        
+        
+
+                <td align="right" width="145">
+                        <a href="http://pts.xjtu.edu.cn:8081/" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1332696255, 20623)" target="_blank">
+                            <img src="dfiles/12887/themes/10010/20000/images/btn_10.png" border="0" width="145">
+                        </a>  
+                </td>
+</tr>
+          <tr>
+
+                <td colspan="2">
+                        <a href="http://print.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1332696255, 20620)" target="_blank">
+                            <img src="dfiles/12887/themes/10010/20000/images/btn_07.png" border="0" width="300">
+                        </a>  
+                </td>
+</tr>
+          <tr>
+        
+        
+
+                <td colspan="2">
+                        <a href="http://zhpj.xjtu.edu.cn/" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1332696255, 20625)" target="_blank">
+                            <img src="dfiles/12887/themes/10010/20000/images/btn_12.png" border="0" width="300">
+                        </a>  
+                </td>
+</tr>
+          <tr>
+        
+</tr>
+</table><!--#endeditable--></DIV></DIV></DIV>
+<DIV class="blink ">
+<DIV class="blink_title">友情链接</DIV>
+<DIV class="blink_dp"><!--#begineditable clone="0" namechanged="0" order="11" ispublic="0" tagname="下拉链接--二级教学单位" viewid="127445" contentviewid="" contype="" stylesysid="" layout="" action="" name="下拉链接--二级教学单位"-->    
+    
+    
+    
+  
+
+    
+<script language="javascript">    
+<!--    
+    function doLinksu10(o)    
+    {    
+        var link=document.getElementsByName("su10")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu10");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa127445aa");
+        _addDynClicks('wburl',1332696255,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table>    
+    <tr><td align="center">    
+            <span class="titlestyle127445"></span> <a id="hu10"></a>    
+            <select name="su10" class="selectstyle127445" onChange="doLinksu10(this)">    
+                <option value="">—&nbsp;二级教学单位&nbsp;—</option>    
+                <option vsbhrefname="value" aa127445aa="4139" value="http://phych.xjtu.edu.cn/">==理学院==    
+                <option vsbhrefname="value" aa127445aa="4140" value="http://math.xjtu.edu.cn/">==数学学院==    
+                <option vsbhrefname="value" aa127445aa="4141" value="http://fist.xjtu.edu.cn/">==前沿院==    
+                <option vsbhrefname="value" aa127445aa="4142" value="http://mec.xjtu.edu.cn/">==机械学院==    
+                <option vsbhrefname="value" aa127445aa="4143" value="http://fsfse.xjtu.edu.cn/">==食品装备学院==    
+                <option vsbhrefname="value" aa127445aa="4144" value="http://ee.xjtu.edu.cn/">==电气学院==    
+                <option vsbhrefname="value" aa127445aa="4145" value="http://epe.xjtu.edu.cn/">==能动学院==    
+                <option vsbhrefname="value" aa127445aa="4146" value="http://eie.xjtu.edu.cn/">==电信学院==    
+                <option vsbhrefname="value" aa127445aa="4147" value="http://se.xjtu.edu.cn/">==软件学院==    
+                <option vsbhrefname="value" aa127445aa="4148" value="http://mse.xjtu.edu.cn/">==材料学院==    
+                <option vsbhrefname="value" aa127445aa="4149" value="http://hsce.xjtu.edu.cn/">==人居学院==    
+                <option vsbhrefname="value" aa127445aa="4150" value="http://slst.xjtu.edu.cn/">==生命学院==    
+                <option vsbhrefname="value" aa127445aa="4151" value="http://cem.xjtu.edu.cn/">==航天学院==    
+                <option vsbhrefname="value" aa127445aa="4152" value="http://clet.xjtu.edu.cn/">==化工学院==    
+                <option vsbhrefname="value" aa127445aa="4153" value="http://www.med.xjtu.edu.cn/">==医学部==    
+                <option vsbhrefname="value" aa127445aa="4154" value="http://sef.xjtu.edu.cn/">==经金学院==    
+                <option vsbhrefname="value" aa127445aa="4155" value="http://som.xjtu.edu.cn/">==管理学院==    
+                <option vsbhrefname="value" aa127445aa="4156" value="http://sppa.xjtu.edu.cn/">==公管学院==    
+                <option vsbhrefname="value" aa127445aa="4157" value="http://rwxy.xjtu.edu.cn/front/">==人文学院==    
+                <option vsbhrefname="value" aa127445aa="4158" value="http://mkszy.xjtu.edu.cn/">==马克思主义学院==    
+                <option vsbhrefname="value" aa127445aa="4159" value="http://fxy.xjtu.edu.cn/">==法学院==    
+                <option vsbhrefname="value" aa127445aa="4160" value="http://sfs.xjtu.edu.cn/">==外国语学院==    
+                <option vsbhrefname="value" aa127445aa="4161" value="http://jinhe.xjtu.edu.cn/">==金禾中心==    
+                <option vsbhrefname="value" aa127445aa="4162" value="http://zq.xjtu.edu.cn/tyzx/index.jsp">==体育中心==    
+                <option vsbhrefname="value" aa127445aa="4163" value="http://jdjs.xjtu.edu.cn/">==军事教研室==    
+                <option vsbhrefname="value" aa127445aa="4164" value="http://zs.xjtu.edu.cn/">==本科招生网==    
+                <option vsbhrefname="value" aa127445aa="4165" value="http://202.117.35.250/jfzx/">==教师教学发展中心==    
+                <option vsbhrefname="value" aa127445aa="4166" value="http://bjb.xjtu.edu.cn/">==钱学森学院==    
+                <option vsbhrefname="value" aa127445aa="26794" value="http://bb.xjtu.edu.cn">==Blackboard教学平台==    
+                </select>    
+        </td><tr></table><!--#endeditable--></DIV>
+<DIV class="blink_dp"><!--#begineditable clone="0" namechanged="0" order="12" ispublic="0" tagname="下拉链接--教育站点导航" viewid="127446" contentviewid="" contype="" stylesysid="" layout="" action="" name="下拉链接--教育站点导航"-->    
+    
+    
+    
+  
+
+    
+<script language="javascript">    
+<!--    
+    function doLinksu11(o)    
+    {    
+        var link=document.getElementsByName("su11")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu11");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa127446aa");
+        _addDynClicks('wburl',1332696255,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table>    
+    <tr><td align="center">    
+            <span class="titlestyle127446"></span> <a id="hu11"></a>    
+            <select name="su11" class="selectstyle127446" onChange="doLinksu11(this)">    
+                <option value="">—&nbsp;教育站点导航&nbsp;—</option>    
+                <option vsbhrefname="value" aa127446aa="4167" value="http://moe.edu.cn/">==教育部==    
+                <option vsbhrefname="value" aa127446aa="4168" value="http://www.snedu.gov.cn/">==陕西省教育厅==    
+                <option vsbhrefname="value" aa127446aa="4169" value="http://wetdc.xjtu.edu.cn/">==实验教学示范中心西北西南管理组==    
+                <option vsbhrefname="value" aa127446aa="4170" value="http://som.xjtu.edu.cn/jiaowu/baoming">==“2 4 X”选拔报名==    
+                </select>    
+        </td><tr></table><!--#endeditable--></DIV>
+<DIV class="blink_dp"><!--#begineditable clone="0" namechanged="0" order="13" ispublic="0" tagname="下拉链接--中外大学" viewid="127447" contentviewid="" contype="" stylesysid="" layout="" action="" name="下拉链接--中外大学"-->    
+    
+    
+    
+  
+
+    
+<script language="javascript">    
+<!--    
+    function doLinksu12(o)    
+    {    
+        var link=document.getElementsByName("su12")[0];    
+        var index=link.selectedIndex;    
+        if (index==-1 || index>=link.options.length)    
+        {    
+          return;    
+        }    
+        var value = link.options[index].value;    
+        var obj = document.getElementById("hu12");    
+        obj.href = value;
+        var wburlid =link.options[index].getAttribute("aa127447aa");
+        _addDynClicks('wburl',1332696255,wburlid)
+            
+                     obj.target = "_blank"
+                    
+         if(document.all){
+          obj.click();     
+        }         
+         else 
+        { 
+          window.open(value);
+         }
+       
+       if(o.selectedIndex != 0)    
+       {    
+           o.selectedIndex = 0;    
+       }    
+    }    
+-->    
+</script>  
+<table>    
+    <tr><td align="center">    
+            <span class="titlestyle127447"></span> <a id="hu12"></a>    
+            <select name="su12" class="selectstyle127447" onChange="doLinksu12(this)">    
+                <option value="">—&nbsp;中外大学—</option>    
+                <option vsbhrefname="value" aa127447aa="4171" value="http://www.tsinghua.edu.cn/publish/th/index.html">==清华大学==    
+                <option vsbhrefname="value" aa127447aa="4172" value="http://www.pku.edu.cn/">==北京大学==    
+                <option vsbhrefname="value" aa127447aa="4173" value="http://www.sjtu.edu.cn/">==上海交通大学==    
+                <option vsbhrefname="value" aa127447aa="4174" value="http://www.zju.com/">==浙江大学==    
+                <option vsbhrefname="value" aa127447aa="4175" value="http://www.nju.edu.cn/">==南京大学==    
+                <option vsbhrefname="value" aa127447aa="4176" value="http://www.fudan.edu.cn/">==复旦大学==    
+                <option vsbhrefname="value" aa127447aa="4177" value="http://www.hit.edu.cn/">==哈尔滨工业大学==    
+                <option vsbhrefname="value" aa127447aa="4178" value="http://www.ustc.edu.cn/">==中国科技大学==    
+                <option vsbhrefname="value" aa127447aa="4179" value="http://www.mit.edu/">==麻省理工大学==    
+                <option vsbhrefname="value" aa127447aa="4180" value="http://www.harvard.edu/">==哈佛大学==    
+                <option vsbhrefname="value" aa127447aa="4181" value="http://www.berkeley.edu/">==伯克利加州大学==    
+                <option vsbhrefname="value" aa127447aa="4182" value="http://www.ox.ac.uk/">==牛津大学==    
+                <option vsbhrefname="value" aa127447aa="4183" value="http://www.cam.ac.uk/">==剑桥大学==    
+                </select>    
+        </td><tr></table><!--#endeditable--></DIV></DIV></DIV><!--footer-->
+<DIV class="footerWrap">
+<DIV class="foot-word"><!--版权--><!--#begineditable clone="0" namechanged="0" order="14" ispublic="0" tagname="版权" viewid="127448" contentviewid="" contype="" stylesysid="" layout="" action="" name="版权"--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<h2>西安交通大学教务处 版权所有 Copyright ? 2004-2016 All Rights Reserved</h2><!--#endeditable-->
+<H2><!--#begineditable clone="0" namechanged="0" order="15" ispublic="0" tagname="文字计数器" viewid="127449" contentviewid="" contype="" stylesysid="" layout="" action="" name="文字计数器"-->
+<script language="javascript" src="_dwr/engine.js"></script>
+<script language="javascript" src="_dwr/util.js"></script>
+<script language="javascript" src="_dwr/interface/PageCounterDWR.js"></script>
+<table width="1%" align="center" class="winstyle127449">
+    <tr>
+    <td valign="middle" align="center" nowrap>
+
+        <span>您是网站第</span>
+        
+        <span class="fontstyle127449" id="a127449" name="a127449"></span>
+        
+        <span>位访问者 （推荐使用Firefox、IE6.0以上版本浏览器）</span>
+    
+    </td>    
+    </tr>
+</table>
+<script>
+function getvisittimeform127449()
+{		PageCounterDWR.getVisittime('1332696255','1001','TOTAL_COUNTER','11124289','8',callbackdataform127449);
+}
+function callbackdataform127449(data)
+{
+	document.getElementById("a127449").innerHTML = data; 
+}
+getvisittimeform127449();
+</script><!--#endeditable--></H2><!--版权--></DIV></DIV>
+
+</BODY></HTML>
